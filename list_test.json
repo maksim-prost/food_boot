@@ -1,0 +1,71 @@
+[
+    {
+    "current_chat_id": 0,
+    "list_message_user":[
+            "msg"
+    ]},
+
+    {
+    "current_chat_id": 1,
+    "list_message_user":[
+            "msg",
+            "большую",
+            "картой",
+            "да"   
+    ]},
+
+    {
+    "current_chat_id": 0,
+    "list_message_user":[
+            "большую"
+    ]},
+
+    {
+    "current_chat_id": 2,
+    "list_message_user":[
+            "msg",
+            "маленькую",
+            "картой",
+            "нет",
+            "заказ",
+            "бальшую", 
+            "большую",
+            "наличиными",
+            "наличными",
+            "да" 
+    ]},
+
+    {
+     "current_chat_id": 0,
+     "list_message_user":[
+           "картой"
+        ]},
+    
+    {
+    "current_chat_id": 3,
+    "list_message_user":[
+            "картой",
+            "да",
+            "большую", 
+            "наличными",
+            "да"
+    ]
+    },
+
+    {
+    "current_chat_id": 0,
+    "list_message_user":[
+            "yes"   
+    ]},
+    
+    {
+        "current_chat_id": 3,
+        "list_message_user":[
+                "картой",
+                "да",
+                "большую", 
+                "наличными",
+                "да"
+        ]
+    }
+]
